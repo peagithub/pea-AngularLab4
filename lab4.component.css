@@ -1,0 +1,20 @@
+.header{
+    background-color: #f3f0f0;
+          padding: 20px;
+          text-align: center;
+          outline-style: double;
+
+    
+}
+.number-even{
+    color: red;
+}
+.number-odd {
+    color: green;
+}
+.font{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+    
+    
